@@ -14,7 +14,7 @@
      Visual Studio 2022, Fork, Asana
 
 <br/> <br/> 
-## 🏘Architecture
+## 🏘 Architecture
 
 ![Systems architecture4](https://github.com/Samseon-Jjambbong/Ma-Fi-Ya-/assets/154119773/4784a43f-611f-4a95-9e4b-fcde0b85ed06)
 
