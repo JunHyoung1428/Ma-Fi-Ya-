@@ -14,6 +14,17 @@
      Visual Studio 2022, Fork, Asana
 
 <br/> <br/> 
+
+## 🧻 [My Role]
+
+ - [Firebase]
+   - [Authentication]
+   - [RealTime Database]
+ - [Photon Chat] with [CustomData] Serialize / Deserialize
+ - [KinfeMode] [Management] and [Kill Log] [System]
+<br/> <br/> 
+
+
 ## 🏘 Architecture
 
 ![Systems architecture4](https://github.com/Samseon-Jjambbong/Ma-Fi-Ya-/assets/154119773/4784a43f-611f-4a95-9e4b-fcde0b85ed06)
@@ -44,13 +55,7 @@
 
 <br/>
 
-## 🧻 [My Role]
 
- - [Firebase]
-   - [Authentication]
-   - [RealTime Database]
- - [Photon Chat] with [CustomData] Serialize / Deserialize
- - [KinfeMode] [Management] and [Kill Log] [System]
 
  [My Role]:https://github.com/JunHyoung1428/Ma-Fi-Ya-/tree/master/Assets/Workspace/JunHyoung
  
