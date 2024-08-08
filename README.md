@@ -41,3 +41,27 @@
 
 ### Knif Mode Game Play
 ![image](https://github.com/Samseon-Jjambbong/Ma-Fi-Ya-/assets/154119773/eec77e2e-43c7-480c-b125-a4b973f11fb0)
+
+<br/>
+
+## 🧻 [My Role]
+
+ - [Firebase]
+   - [Authentication]
+   - [RealTime Database]
+ - [Photon Chat] with [CustomData] Serialize / Deserialize
+ - [KinfeMode] [Management] and [Kill Log] [System]
+
+ [My Role]:https://github.com/JunHyoung1428/Ma-Fi-Ya-/tree/master/Assets/Workspace/JunHyoung
+ 
+ [Firebase]:https://github.com/JunHyoung1428/Ma-Fi-Ya-/blob/master/Assets/Workspace/JunHyoung/_Scripts/Manager/FirebaseManager.cs
+ [Authentication]:https://github.com/JunHyoung1428/Ma-Fi-Ya-/tree/master/Assets/Workspace/JunHyoung/_Scripts/Authentication
+ [RealTime Database]:https://github.com/JunHyoung1428/Ma-Fi-Ya-/tree/master/Assets/Workspace/JunHyoung/_Scripts/Database
+ 
+ [Photon Chat]:https://github.com/JunHyoung1428/Ma-Fi-Ya-/tree/master/Assets/Workspace/JunHyoung/_Scripts/Chat
+ [CustomData]:https://github.com/JunHyoung1428/Ma-Fi-Ya-/blob/master/Assets/Workspace/JunHyoung/_Scripts/Chat/ChatData.cs
+ 
+ [KinfeMode]:https://github.com/JunHyoung1428/Ma-Fi-Ya-/tree/master/Assets/Workspace/JunHyoung/_Scripts/KnifeGame
+ [Management]:https://github.com/JunHyoung1428/Ma-Fi-Ya-/blob/master/Assets/Workspace/JunHyoung/_Scripts/KnifeGame/KnifeGameManager.cs
+ [Kill Log]:https://github.com/JunHyoung1428/Ma-Fi-Ya-/blob/master/Assets/Workspace/JunHyoung/_Scripts/KnifeGame/KillLogData.cs
+ [System]:https://github.com/JunHyoung1428/Ma-Fi-Ya-/blob/master/Assets/Workspace/JunHyoung/_Scripts/KnifeGame/KillLogManager.cs
